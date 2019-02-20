@@ -1,0 +1,5 @@
+Martin Whitman Lean Techniques Technical Showcase 2/20/19 Option 1 Photo Album
+martin.whitman.1776@gmail.com
+"Create a console application that displays photo ids and titles in an album. The photos are available in this online web service (https://jsonplaceholder.typicode.com/photos)."
+
+To use, launch the jar file from a command line interface or open the project in a Java IDE such as eclipse. You will be prompted for a positive number for the album ID you wish to get the photo titles/IDs of. Enter this and press Enter, and the results will display below.
